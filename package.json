@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pqz/NPMIN470r/issues"
   },
-  "homepage": "https://github.com/pqz/NPMIN470r#readme"
+  "homepage": "https://github.com/pqz/NPMIN470r#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
 }
